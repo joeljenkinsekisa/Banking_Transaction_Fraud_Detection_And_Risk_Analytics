@@ -1,7 +1,6 @@
-<img width="1449" height="804" alt="Frau detection dashbord" src="https://github.com/user-attachments/assets/f6b3a935-ca57-4199-8ad0-3b8350d287f7" /># Banking Transaction Fraud Detection and Risk Analytics
+# Banking Transaction Fraud Detection and Risk Analytics
 
-<img width="1449" height="804" alt="Frau detection dashbord" src="https://github.com/user-attachments/assets/ba7d1bfd-d7d8-41a4-bde6-eab3d8d57160" />
-
+<img width="1449" height="804" alt="Frau detection dashbord" src="https://github.com/user-attachments/assets/ab4483fb-69ff-4a4e-a0a8-b28e1f814165" />
 
 ## Project Overview
 
@@ -175,6 +174,7 @@ This project helps financial institutions:
 - Python Notebook: Fraud detection, EDA, machine learning, and export process
 - Power BI Dashboard: Executive fraud risk monitoring dashboard
 - CSV Dataset: Banking transaction data
+- Dashboard Image: Final Power BI dashboard screenshot
 
 ## Author
 
